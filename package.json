@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@feathersjs/express": "^4.5.11",
+    "@feathersjs/feathers": "^4.5.11",
+    "@feathersjs/socketio": "^4.5.11"
+  },
+  "name": "feathersjs-api-server",
+  "description": "A Feathers realtime application and a service using web socket transport.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dareljohnson/feathersjs-api-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dareljohnson/feathersjs-api-server/issues"
+  },
+  "homepage": "https://github.com/dareljohnson/feathersjs-api-server#readme"
+}
